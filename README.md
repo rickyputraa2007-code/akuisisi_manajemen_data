@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Akuisisi dan Manajemen Data
 
 ## Identitas
@@ -20,3 +21,6 @@ Gunakan Python 3.11 atau versi lebih baru. Pasang dependensi dengan:
 
 Kemudian jalankan `python akuisisi_manajemen_data.py`.
 Ganti identitas pada README dan file Python sebelum dikumpulkan.
+=======
+# akuisisi_manajemen_data
+>>>>>>> 2ed345b7b9c4a8682caef90af33c1b9d4f0aa909
